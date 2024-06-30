@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CXC",
+        "BDB"
+    ],
+    "key": {
+        "#": { "item": "create:iron_sheet" },
+        "C": { "item": "create:electron_tube" },
+        "X": { "tag": "storagedrawers:drawers" },
+        "D": { "item": "create:chute" },
+        "B": { "item": "create:brass_sheet" }
+    },
+    "result": { "item": "storagedrawers:controller" }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#X#",
+        "#G#"
+    ],
+    "key": {
+        "#": { "item": "create:iron_sheet" },
+        "X": { "tag": "storagedrawers:drawers" },
+        "G": { "item": "create:chute" }
+    },
+    "result": { "item": "storagedrawers:controller_slave" }
+}

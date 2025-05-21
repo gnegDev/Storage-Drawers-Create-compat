@@ -8,7 +8,7 @@
     "key": {
         "#": { "item": "create:iron_sheet" },
         "T": { "item": "create:mechanical_crafter" },
-        "X": { "tag": "storagedrawers:drawers" }
+        "X": { "tag": "storagedrawers:full_drawers" }
     },
     "result": { "item": "storagedrawers:compacting_drawers_3" }
 }
